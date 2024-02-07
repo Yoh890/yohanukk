@@ -1,0 +1,52 @@
+/* Index.css */
+
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+header {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.features {
+  padding: 4rem 0;
+  background-color: #f8f9fa;
+}
+
+.features i {
+  color: #007bff;
+}
+
+.cta {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.cta h2 {
+  font-size: 2.5rem;
+}
+
+.cta .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.cta .btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
